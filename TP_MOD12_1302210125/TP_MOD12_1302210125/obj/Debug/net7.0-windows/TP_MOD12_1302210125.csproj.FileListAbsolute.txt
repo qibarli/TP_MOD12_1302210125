@@ -1,0 +1,7 @@
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD12_1302210125\TP_MOD12_1302210125\TP_MOD12_1302210125\obj\Debug\net7.0-windows\TP_MOD12_1302210125.csproj.AssemblyReference.cache
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD12_1302210125\TP_MOD12_1302210125\TP_MOD12_1302210125\obj\Debug\net7.0-windows\TP_MOD12_1302210125.Form1.resources
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD12_1302210125\TP_MOD12_1302210125\TP_MOD12_1302210125\obj\Debug\net7.0-windows\TP_MOD12_1302210125.csproj.GenerateResource.cache
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD12_1302210125\TP_MOD12_1302210125\TP_MOD12_1302210125\obj\Debug\net7.0-windows\TP_MOD12_1302210125.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD12_1302210125\TP_MOD12_1302210125\TP_MOD12_1302210125\obj\Debug\net7.0-windows\TP_MOD12_1302210125.AssemblyInfoInputs.cache
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD12_1302210125\TP_MOD12_1302210125\TP_MOD12_1302210125\obj\Debug\net7.0-windows\TP_MOD12_1302210125.AssemblyInfo.cs
+C:\Users\iceice\Documents\semester 4\kpl\GITGITUB\TP_MOD12_1302210125\TP_MOD12_1302210125\TP_MOD12_1302210125\obj\Debug\net7.0-windows\TP_MOD12_1302210125.csproj.CoreCompileInputs.cache

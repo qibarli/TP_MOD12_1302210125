@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_MOD12_1302210125_KPL", "TP_MOD12_1302210125_KPL\TP_MOD12_1302210125_KPL.csproj", "{543C25F9-F906-42EF-BB83-7D523AAB8EF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP_MOD12_1302210125_KPLTests", "TP_MOD12_1302210125_KPLTests\TP_MOD12_1302210125_KPLTests.csproj", "{52811585-DAF7-40AF-8FEF-8DFFD627AD01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543C25F9-F906-42EF-BB83-7D523AAB8EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543C25F9-F906-42EF-BB83-7D523AAB8EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543C25F9-F906-42EF-BB83-7D523AAB8EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543C25F9-F906-42EF-BB83-7D523AAB8EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52811585-DAF7-40AF-8FEF-8DFFD627AD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52811585-DAF7-40AF-8FEF-8DFFD627AD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52811585-DAF7-40AF-8FEF-8DFFD627AD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52811585-DAF7-40AF-8FEF-8DFFD627AD01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD9D2603-28F5-456B-9948-909AFD909253}
+	EndGlobalSection
+EndGlobal
