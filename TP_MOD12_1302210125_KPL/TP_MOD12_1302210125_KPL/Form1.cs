@@ -28,7 +28,7 @@ namespace TP_MOD12_1302210125_KPL
         {
             if (a == 0)
             {
-                return "Negatif";
+                return "NegatiF";
             }
             else if (a > 0)
             {
